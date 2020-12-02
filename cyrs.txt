@@ -1,0 +1,4 @@
+Nikolaev 5 16 2 3 7 11
+Odessa 47 22 7 5 5 12
+Kyiv 12 11 1 7 6 11
+Odessa 6 18 0 4 7 8
